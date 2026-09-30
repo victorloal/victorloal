@@ -3,15 +3,14 @@
  
 <p align="center">
   Ingeniero de Sistemas (Universidad de Nariño) con más de 2 años de experiencia
-  desarrollando aplicaciones web, móviles, de escritorio y sistemas blockchain
-  de extremo a extremo.
+  desarrollando aplicaciones web, móviles, de escritorio y sistemas blockchain.
 </p>
 ---
  
 ### 🚀 Sobre mí
  
 - 🔭 Actualmente desarrollando **Udenar Vota**, un sistema de votación electrónica anónima basado en Hyperledger Fabric.
-- 🎓 Mi proyecto de grado fue el desarrollo del Módulo de Transacciones de Energía (MTE) con tecnología blockchain, en un contrato real de 2 años con 5 instituciones.
+- 🎓 Mi proyecto de grado fue el desarrollo del Módulo de Transacciones de Energía (MTE) con tecnología blockchain.
 - 📱 Desarrollé y publiqué en Google Play **Perla**, una app móvil de apoyo a víctimas de violencia de género.
 - 🌱 Siempre aprendiendo — actualmente explorando desarrollo asistido por IA (vibe coding) y nuevas arquitecturas de microservicios.
 - 📍 Pasto, Nariño, Colombia.
